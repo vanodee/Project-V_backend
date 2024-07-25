@@ -1,0 +1,14 @@
+{
+  "name": "project-v",
+  "private": true,
+  "main": "server.js",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
