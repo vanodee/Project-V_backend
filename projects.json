@@ -1,9 +1,8 @@
 {
     "front_end_projects": [
         {
-            "id": 1,
+            "id": "little_lemon",
             "title": "Little Lemon",
-            "pathName": "little_lemon",
             "previewColor": "rgba(244, 205, 21, 0.3)",
             "thumbnail": "/project_previews/front_end_projects/little_lemon/little_lemon_thumbnail.webp",
             "previewImage": "/project_previews/front_end_projects/little_lemon/little_lemon_preview.webp",
@@ -11,9 +10,8 @@
             "projectLink": ""
         },
         {
-            "id": 2,
+            "id": "my_portfolio",
             "title": "My Portfolio",
-            "pathName": "my_portfolio",
             "previewColor": "",
             "thumbnail": "/project_previews/front_end_projects/stevano_peters/sp_thumbnail.webp",
             "previewImage": "/project_previews/front_end_projects/stevano_peters/sp_preview.webp",
@@ -21,9 +19,8 @@
             "projectLink": ""
         },
         {
-            "id": 3,
+            "id": "singleton_project",
             "title": "Singleton Project",
-            "pathName": "singleton_project",
             "previewColor": "rgba(40, 161, 200, 0.3)",
             "thumbnail": "/project_previews/front_end_projects/hdys/hdys_thumbnail.webp",
             "previewImage": "/project_previews/front_end_projects/hdys/hdys_preview.webp",
@@ -34,9 +31,8 @@
 
     "ux_case_studies": [
         {
-            "id": 1,
+            "id": "vee_cinemas",
             "title": "Vee Cinemas",
-            "pathName": "vee_cinemas",
             "previewColor": "rgba(57, 217, 54, 0.3)",
             "thumbnail": "/project_previews/ux_case_studies/v_cinemas/v_cinemas_thumbnail.webp",
             "previewImage": "/project_previews/ux_case_studies/v_cinemas/v_cinemas_preview.webp",
@@ -62,9 +58,8 @@
             "finalHero": "/project_previews/ux_case_studies/v_cinemas/18_endImage.webp"
         },
         {
-            "id": 2,
+            "id": "stellas_garage",
             "title": "Stella's Garage",
-            "pathName": "stellas_garage",
             "previewColor": "rgba(254, 226, 100, 0.3)",
             "thumbnail": "/project_previews/ux_case_studies/stellas_garage/stellas_garage_thumbnail.webp",
             "previewImage": "/project_previews/ux_case_studies/stellas_garage/stellas_garage_preview.webp",
@@ -102,9 +97,8 @@
             "finalHero": "/project_previews/ux_case_studies/stellas_garage/26_finalHero.webp"
         },
         {
-            "id": 3,
+            "id": "dr_notii",
             "title": "Dr. Notii",
-            "pathName": "dr_notii",
             "previewColor": "rgba(168, 19, 155, 0.3)",
             "thumbnail": "/project_previews/ux_case_studies/dr_notii/dr_notii_thumbnail.webp",
             "previewImage": "/project_previews/ux_case_studies/dr_notii/dr_notii_preview.webp",
@@ -173,9 +167,8 @@
 
     "logo_designs": [
         {
-            "id": 1,
+            "id": "unity_cyber_cafe",
             "title": "Unity Cyber-Cafe",
-            "pathName": "unity_cyber_cafe",
             "previewColor": "rgba(12, 29, 64, 0.3)",
             "thumbnail": "/project_previews/logo_designs/unity_cybercafe/unity_thumbnail.webp",
             "previewImage": "/project_previews/logo_designs/unity_cybercafe/unity_12.webp",
@@ -199,9 +192,8 @@
             ]
         },
         {
-            "id": 2,
+            "id": "homestyle_doinz",
             "title": "Home-Style Doinz",
-            "pathName": "homestyle_doinz",
             "previewColor": "rgba(192, 53, 4, 0.3)",
             "thumbnail": "/project_previews/logo_designs/homestyle_doinz/HomeStyle_Thumbnail.webp",
             "previewImage": "/project_previews/logo_designs/homestyle_doinz/Homestyle_15.webp",
@@ -228,9 +220,8 @@
             ]
         },
         {
-            "id": 3,
+            "id": "zozah",
             "title": "ZOZAH",
-            "pathName": "zozah",
             "previewColor": "rgba(0, 64, 64, 0.3)",
             "thumbnail": "/project_previews/logo_designs/zozah/Zozah_thumbnail.webp",
             "previewImage": "/project_previews/logo_designs/zozah/Zozah_21.webp",
@@ -262,9 +253,8 @@
             ]
         },
         {
-            "id": 4,
+            "id": "chopam",
             "title": "ChopAm",
-            "pathName": "chopam",
             "previewColor": "rgba(242, 92, 5, 0.3)",
             "thumbnail": "/project_previews/logo_designs/chopam/chopam_thumbnail.webp",
             "previewImage": "/project_previews/logo_designs/chopam/chopam_preview.webp",
@@ -294,9 +284,8 @@
 
     "brand_designs": [
         {
-            "id": 1,
+            "id": "dstv_and_gotv",
             "title": "DSTV & GOTV",
-            "pathName": "dstv_and_gotv",
             "previewColor": "rgba(22, 69, 193, 0.3)",
             "thumbnail": "/project_previews/brand_designs/dstv/dstv_thumbnail.webp",
             "previewImage": "/project_previews/brand_designs/dstv/dstv_preview.webp",
@@ -321,9 +310,8 @@
             ]
         },
         {
-            "id": 2,
+            "id": "siblings_laundromat",
             "title": "Siblings",
-            "pathName": "siblings_laundromat",
             "previewColor": "rgba(60, 166, 166, 0.3)",
             "thumbnail": "/project_previews/brand_designs/siblings/siblings_thumbnail.webp",
             "previewImage": "/project_previews/brand_designs/siblings/siblings_preview.webp",
@@ -346,9 +334,8 @@
             ]
         },
         {
-            "id": 3,
+            "id": "janettotty",
             "title": "JANETTOTTY",
-            "pathName": "janettotty",
             "previewColor": "rgba(243, 203, 154, 0.3)",
             "thumbnail": "/project_previews/brand_designs/janettotty/janettotty_thumbnail.webp",
             "previewImage": "/project_previews/brand_designs/janettotty/janettotty_preview.webp",
