@@ -25,7 +25,17 @@
             "thumbnail": "/project_previews/front_end_projects/hdys/hdys_thumbnail.webp",
             "previewImage": "/project_previews/front_end_projects/hdys/hdys_preview.webp",
             "previewSummary": "",
-            "projectLink": ""
+            "projectLink": "",
+            "heroImage": "/project_previews/front_end_projects/hdys/1_hero.webp",
+            "animation": "/project_previews/front_end_projects/hdys/hdys_preview.webp",
+            "hero2": "/project_previews/front_end_projects/hdys/3_hero.webp",
+            "initialWeb": "/project_previews/front_end_projects/hdys/hdys_preview.webp",
+            "refinedWeb": "/project_previews/front_end_projects/hdys/hdys_preview.webp",
+            "googleScripts": "/project_previews/front_end_projects/hdys/hdys_preview.webp",
+            "mobileUI": "/project_previews/front_end_projects/hdys/7_mobileViews.webp",
+            "bookingImg": "/project_previews/front_end_projects/hdys/8_booking.webp",
+            "bookingVid": "/project_previews/front_end_projects/hdys/hdys_preview.webp",
+            "hero3": "/project_previews/front_end_projects/hdys/10_hero.webp"
         }
     ],
 
