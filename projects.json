@@ -16,7 +16,18 @@
             "thumbnail": "/project_previews/front_end_projects/stevano_peters/sp_thumbnail.webp",
             "previewImage": "/project_previews/front_end_projects/stevano_peters/sp_preview.webp",
             "previewSummary": "My personal portfolio, Stevano.dev, showcases my expertise in both design and development. As the sole creator, I crafted this professional single-page application (SPA) to house my diverse projects. The site reflects my proficiency in modern web technologies and design principles, offering visitors a seamless, interactive experience. From initial concept to final deployment, I managed every aspect, making it a true representation of my skill set and creative vision.",
-            "projectLink": ""
+            "projectLink": "",
+            "heroImage": "/project_previews/front_end_projects/stevano_peters/hero_1.webp",
+            "animation1": "/project_previews/front_end_projects/stevano_peters/siteAnimation.gif",
+            "hero2": "/project_previews/front_end_projects/stevano_peters/hero_2.webp",
+            "logoProcess": "/project_previews/front_end_projects/stevano_peters/logoProcess_1.webp",
+            "logoOnWhite": "/project_previews/front_end_projects/stevano_peters/logoOnWhite.webp",
+            "logo3d": "/project_previews/front_end_projects/stevano_peters/logo_3d.webp",
+            "animation2": "/project_previews/front_end_projects/stevano_peters/adaptiveColor.gif",
+            "apexImg": "/project_previews/front_end_projects/stevano_peters/apex_lobby.webp",
+            "finalsImg": "/project_previews/front_end_projects/stevano_peters/finals_lobby.webp",
+            "projectsPage": "/project_previews/front_end_projects/stevano_peters/projectsImg.webp",
+            "hero3": "/project_previews/front_end_projects/stevano_peters/hero_3.webp"
         },
         {
             "id": "singleton_project",
